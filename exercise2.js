@@ -1,4 +1,4 @@
-const swatches = document.querySelectorAll('.swatch');
+const swatches = document.querySelectorAll(' .swatch');
 
 function applyColor() {
   this.style.backgroundColor = this.dataset.color;
